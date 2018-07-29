@@ -1,0 +1,8 @@
+2
+deptno(3, decimal), dname(12, varchar) 
+100,IT
+200,Accounting
+300,Marketing
+401,Sales
+402,Service
+403,Production
